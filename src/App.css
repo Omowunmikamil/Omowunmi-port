@@ -592,10 +592,6 @@ video {
   z-index: 50;
 }
 
-.z-20{
-  z-index: 20;
-}
-
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
@@ -875,11 +871,6 @@ video {
   padding-bottom: 2rem;
 }
 
-.py-3{
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
-
 .pl-3{
   padding-left: 0.75rem;
 }
@@ -923,11 +914,6 @@ video {
 
 .text-xl{
   font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.text-lg{
-  font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
@@ -1025,14 +1011,6 @@ video {
   transition-duration: 150ms;
 }
 
-.duration-300{
-  transition-duration: 300ms;
-}
-
-.duration-500{
-  transition-duration: 500ms;
-}
-
 body {
   font-family: "Space Grotesk", sans-serif;
   background-color: #0b1f18;
@@ -1085,11 +1063,6 @@ a.active hr {
 .bg-primary-color{
   --tw-bg-opacity: 1;
   background-color: rgba(19, 202, 144, var(--tw-bg-opacity));
-}
-
-.hover\:bg-slate-700:hover{
-  --tw-bg-opacity: 1;
-  background-color: rgb(51 65 85 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-hover:hover{
